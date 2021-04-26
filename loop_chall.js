@@ -13,7 +13,7 @@ for (var i = 0; i < 6; i++) {
 }
 
 //Sigma
-const number = int;
+const number = 100;
 let sum = 0, i = 1;
 while(i <= number) {
     sum += i;
